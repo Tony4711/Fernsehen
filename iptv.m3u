@@ -1,465 +1,421 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-name="=========Entertain==========" group-title="",=========Entertain==========
-#EXTINF:-1 group-title="Entertain", Das Erste 
-rtp://@239.35.10.4:10000
-#EXTINF:-1 group-title="Entertain", ZDF
-rtp://@239.35.10.5:10000
-#EXTINF:-1 group-title="Entertain", RTL
-rtp://@239.35.20.10:10000
-#EXTINF:-1 group-title="Entertain", Sat.1
-rtp://@239.35.20.20:10000
-#EXTINF:-1 group-title="Entertain", ProSieben
-rtp://@239.35.20.21:10000
-#EXTINF:-1 group-title="Entertain", VOX
-rtp://@239.35.20.11:10000
-#EXTINF:-1 group-title="Entertain", Kabel 1
-rtp://@239.35.20.38:10000
-#EXTINF:-1 group-title="Entertain", RTL II
-rtp://@239.35.20.22:10000
-#EXTINF:-1 group-title="Entertain", Super RTL
-rtp://@239.35.20.39:10000
-#EXTINF:-1 group-title="Entertain", KiKA
-rtp://@239.35.10.19:10000
-#EXTINF:-1 group-title="Entertain", 3sat
-rtp://@239.35.10.6:10000
-#EXTINF:-1 group-title="Entertain", n-tv
-rtp://@239.35.20.47:10000
-#EXTINF:-1 group-title="Entertain", PHOENIX
-rtp://@239.35.10.22:10000
-#EXTINF:-1 group-title="Entertain", zdf_neo
-rtp://@239.35.10.27:10000
-#EXTINF:-1 group-title="Entertain", BR Süd
-rtp://@239.35.10.7:10000
-#EXTINF:-1 group-title="Entertain", hr
-rtp://@239.35.10.8:10000
-#EXTINF:-1 group-title="Entertain", NDR
-rtp://@239.35.10.10:10000
-#EXTINF:-1 group-title="Entertain", rbb Berlin
-rtp://@239.35.10.14:10000
-#EXTINF:-1 group-title="Entertain", SR
-rtp://@239.35.10.15:10000
-#EXTINF:-1 group-title="Entertain", SWR BW
-rtp://@239.35.10.16:10000
-#EXTINF:-1 group-title="Entertain", SWR RP
-rtp://@239.35.10.17:10000
-#EXTINF:-1 group-title="Entertain", WDR
-rtp://@239.35.10.18:10000
-#EXTINF:-1 group-title="Entertain", ARTE
-rtp://@239.35.10.20:10000
-#EXTINF:-1 group-title="Entertain", ONE
-rtp://@239.35.10.21:10000
-#EXTINF:-1 group-title="Entertain", sixx
-rtp://@239.35.20.9:10000
-#EXTINF:-1 group-title="Entertain", RTLNITRO
-rtp://@239.35.20.59:10000
-#EXTINF:-1 group-title="Entertain", RTLplus
-rtp://@239.35.20.57:10000
-#EXTINF:-1 group-title="Entertain", Sat.1 Gold
-rtp://@239.35.20.24:10000
-#EXTINF:-1 group-title="Entertain", ProSieben MAXX
-rtp://@239.35.20.33:10000
-#EXTINF:-1 group-title="Entertain", ARD-alpha
-rtp://@239.35.10.24:10000
-#EXTINF:-1 group-title="Entertain", Tagesschau24
-rtp://@239.35.10.25:10000
-#EXTINF:-1 group-title="Entertain", kabel eins Doku
-rtp://@239.35.20.67:10000
-#EXTINF:-1 group-title="Entertain", ZDFinfo
-rtp://@239.35.10.28:10000
-#EXTINF:-1 group-title="Entertain", rbb Brandenburg
-rtp://@239.35.10.34:10000
-#EXTINF:-1 group-title="Entertain", Das Erste HD
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD" tvg-logo="http://epg4you.com/logos/daserstehd.png" group-title="Entertain", Das Erste HD
 rtp://@239.35.10.1:10000
-#EXTINF:-1 group-title="Entertain", ZDF HD
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD"  tvg-logo="http://epg4you.com/logos/zdfhd.png" group-title="Entertain", ZDF HD
 rtp://@239.35.10.2:10000
-#EXTINF:-1 group-title="Entertain", KiKA HD
-rtp://@239.35.10.11:10000
-#EXTINF:-1 group-title="Entertain", 3sat HD
-rtp://@239.35.10.47:10000
-#EXTINF:-1 group-title="Entertain", PHOENIX HD
-rtp://@239.35.10.48:10000
-#EXTINF:-1 group-title="Entertain", zdf_neo HD
-rtp://@239.35.10.55:10000
-#EXTINF:-1 group-title="Entertain", BR Süd HD
-rtp://@239.35.10.49:10000
-#EXTINF:-1 group-title="Entertain", hr HD
-rtp://@239.35.10.60:10000
-#EXTINF:-1 group-title="Entertain", MDR HD
-rtp://@239.35.10.61:10000
-#EXTINF:-1 group-title="Entertain", NDR HD
-rtp://@239.35.10.50:10000
-#EXTINF:-1 group-title="Entertain", rbb Berlin HD
-rtp://@239.35.10.62:10000
-#EXTINF:-1 group-title="Entertain", SR HD
-rtp://@239.35.10.64:10000
-#EXTINF:-1 group-title="Entertain", SWR BW HD
-rtp://@239.35.10.51:10000
-#EXTINF:-1 group-title="Entertain", SWR RP HD
-rtp://@239.35.10.52:10000
-#EXTINF:-1 group-title="Entertain", WDR HD
-rtp://@239.35.10.53:10000
-#EXTINF:-1 group-title="Entertain", ARTE HD
-rtp://@239.35.10.3:10000
-#EXTINF:-1 group-title="Entertain", ONE HD
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL"  tvg-logo="http://epg4you.com/logos/rtl.png" group-title="Entertain", RTL
+rtp://@239.35.20.10:10000
+#EXTINF:-1 tvg-id="SAT1.de" tvg-name="Sat 1"  tvg-logo="http://epg4you.com/logos/sat1.png" group-title="Entertain", Sat.1 
+rtp://@239.35.20.20:10000
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben"  tvg-logo="http://epg4you.com/logos/prosieben.png" group-title="Entertain", ProSieben
+rtp://@239.35.20.21:10000
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX"  tvg-logo="http://epg4you.com/logos/vox.png" group-title="Entertain", VOX
+rtp://@239.35.20.11:10000
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="KABEL 1"  tvg-logo="http://epg4you.com/logos/kabeleins.png" group-title="Entertain", Kabel 1
+rtp://@239.35.20.38:10000
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2" tvg-logo="http://epg4you.com/logos/rtl2.png" group-title="Entertain", RTL II
+rtp://@239.35.20.22:10000
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" tvg-logo="http://epg4you.com/logos/superrtl.png" group-title="Entertain", Super RTL
+rtp://@239.35.20.39:10000
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv" tvg-logo="http://epg4you.com/logos/ntv.png" group-title="Entertain", n-tv
+rtp://@239.35.20.47:10000
+#EXTINF:-1 tvg-id="one.de" tvg-name="ONE HD" tvg-logo="http://epg4you.com/logos/onehd.png" group-title="Entertain", ONE HD
 rtp://@239.35.10.58:10000
-#EXTINF:-1 group-title="Entertain", tagesschau24 HD
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="http://epg4you.com/logos/sixx.png" group-title="Entertain", sixx
+rtp://@239.35.20.9:10000
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTLNITRO" tvg-logo="http://epg4you.com/logos/rtlnitro.png" group-title="Entertain", RTLNITRO
+rtp://@239.35.20.59:10000
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLplus" tvg-logo="http://epg4you.com/logos/rtlplus.png" group-title="Entertain", RTLplus
+rtp://@239.35.20.57:10000
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat.1 Gold" tvg-logo="http://epg4you.com/logos/sat1gold.png" group-title="Entertain", Sat.1 Gold
+rtp://@239.35.20.24:10000
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben MAXX" tvg-logo="http://epg4you.com/logos/prosiebenmaxx.png" group-title="Entertain", ProSieben MAXX
+rtp://@239.35.20.33:10000
+#EXTINF:-1 tvg-id="" tvg-name="ARD-alpha" tvg-logo="http://epg4you.com/logos/ardalpha.png" group-title="Entertain", ARD-alpha
+rtp://@239.35.10.24:10000
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau24 HD" tvg-logo="http://epg4you.com/logos/tagesschau24hd.png" group-title="Entertain", Tagesschau24 HD
 rtp://@239.35.10.63:10000
-#EXTINF:-1 group-title="Entertain", ZDFinfo HD
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="Kabel eins Doku" tvg-logo="http://epg4you.com/logos/kabeleinsdoku.png" group-title="Entertain", Kabel eins Doku
+rtp://@239.35.20.67:10000
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA HD" tvg-logo="http://epg4you.com/logos/kikahd.png" group-title="Entertain", KiKA HD
+rtp://@239.35.10.11:10000
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD" tvg-logo="http://epg4you.com/logos/3sathd.png" group-title="Entertain", 3sat HD
+rtp://@239.35.10.47:10000
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="PHOENIX HD" tvg-logo="http://epg4you.com/logos/phoenixhd.png" group-title="Entertain", PHOENIX HD
+rtp://@239.35.10.48:10000
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="zdf_neo HD" tvg-logo="http://epg4you.com/logos/zdfneohd.png" group-title="Entertain", zdf_neo HD
+rtp://@239.35.10.55:10000
+#EXTINF:-1 tvg-id="hr.de" tvg-name="hr HD" tvg-logo="http://epg4you.com/logos/hrhd.png" group-title="Entertain", hr HD
+rtp://@239.35.10.60:10000
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR HD" tvg-logo="http://epg4you.com/logos/mdrhd.png" group-title="Entertain", MDR HD
+rtp://@239.35.10.61:10000
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="nDR HD" tvg-logo="http://epg4you.com/logos/ndrhd.png" group-title="Entertain", NDR HD
+rtp://@239.35.10.50:10000
+#EXTINF:-1 tvg-id="rbbberlin.de" tvg-name="rbb Berlin HD" tvg-logo="http://epg4you.com/logos/rbbberlin.png" group-title="Entertain", rbb Berlin HD
+rtp://@239.35.10.62:10000
+#EXTINF:-1 tvg-id="sr.de" tvg-name="SR HD" tvg-logo="http://epg4you.com/logos/srhd.png" group-title="Entertain", SR HD
+rtp://@239.35.10.64:10000
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD" tvg-logo="http://epg4you.com/logos/wdrhd.png" group-title="Entertain", WDR HD
+rtp://@239.35.10.53:10000
+#EXTINF:-1 tvg-id="arte.de" tvg-name=ARTE HD" tvg-logo="http://epg4you.com/logos/artehd.png" group-title="Entertain", ARTE HD
+rtp://@239.35.10.3:10000
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDFinfo HD" tvg-logo="http://epg4you.com/logos/zdfinfohd.png" group-title="Entertain", ZDFinfo HD
 rtp://@239.35.10.56:10000
-#EXTINF:-1 tvg-id="" tvg-name="=========GERMANY  STANDARD==========" tvg-logo="" group-title="",=========GERMANY  STANDARD==========
+#EXTINF:-1 tvg-id="" tvg-name="=========UmbrellaTV  STANDARD==========" tvg-logo="" group-title="",=========UmbrellaTV  STANDARD==========
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2508.ts
-#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="Sat 1" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1134.png" group-title="GERMANY",  Sat 1
+#EXTINF:-1 tvg-id="SAT1.de" tvg-name="Sat 1" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1134.png" group-title="UmbrellaTV",  Sat 1
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1597.ts
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat 1 Gold" tvg-logo="" group-title="GERMANY", Sat 1 Gold
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat 1 Gold" tvg-logo="" group-title="UmbrellaTV", Sat 1 Gold
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2539.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sat 1 emotions" tvg-logo="" group-title="GERMANY", Sat 1 emotions
+#EXTINF:-1 tvg-id="" tvg-name="Sat 1 emotions" tvg-logo="" group-title="UmbrellaTV", Sat 1 emotions
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3279.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deluxe Music" tvg-logo="" group-title="GERMANY", Deluxe Music
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="Deluxe Music" tvg-logo="" group-title="UmbrellaTV", Deluxe Music
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3632.ts
-#EXTINF:-1 tvg-id="" tvg-name="Goldstar" tvg-logo="" group-title="GERMANY", Goldstar
+#EXTINF:-1 tvg-id="" tvg-name="Goldstar" tvg-logo="" group-title="UmbrellaTV", Goldstar
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2719.ts
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1136.png" group-title="GERMANY", RTL
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1136.png" group-title="UmbrellaTV", RTL
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2537.ts
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1136.png" group-title="GERMANY", RTL HD
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1136.png" group-title="UmbrellaTV", RTL HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/923.ts
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL plus" tvg-logo="" group-title="GERMANY", RTL plus
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL plus" tvg-logo="" group-title="UmbrellaTV", RTL plus
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3285.ts
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2 HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1137.png" group-title="GERMANY", RTL 2 HD
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2 HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1137.png" group-title="UmbrellaTV", RTL 2 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/924.ts
-#EXTINF:-1 tvg-id="RTL2You.de" tvg-name="RTL 2 YOU HD" tvg-logo="" group-title="GERMANY", RTL 2 YOU HD
+#EXTINF:-1 tvg-id="RTL2You.de" tvg-name="RTL 2 YOU HD" tvg-logo="" group-title="UmbrellaTV", RTL 2 YOU HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2761.ts
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1142.png" group-title="GERMANY", Super RTL
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1142.png" group-title="UmbrellaTV", Super RTL
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/309.ts
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1127.jpg" group-title="GERMANY", ProSieben HD
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1127.jpg" group-title="UmbrellaTV", ProSieben HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/922.ts
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1127.jpg" group-title="GERMANY", ProSieben
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1127.jpg" group-title="UmbrellaTV", ProSieben
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2826.ts
-#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="Pro7 Fun HD" tvg-logo="" group-title="GERMANY", Pro7 Fun HD
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="Pro7 Fun HD" tvg-logo="" group-title="UmbrellaTV", Pro7 Fun HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2489.ts
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="Pro7 Maxx HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1128.png" group-title="GERMANY", Pro7 Maxx HD
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="Pro7 Maxx HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1128.png" group-title="UmbrellaTV", Pro7 Maxx HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2577.ts
-#EXTINF:-1 tvg-id="ComedyVIVA.ch" tvg-name="Comedy Central" tvg-logo="" group-title="GERMANY", Comedy Central
+#EXTINF:-1 tvg-id="ComedyVIVA.ch" tvg-name="Comedy Central" tvg-logo="" group-title="UmbrellaTV", Comedy Central
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2579.ts
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1131.png" group-title="GERMANY", VOX HD
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1131.png" group-title="UmbrellaTV", VOX HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/308.ts
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1132.png" group-title="GERMANY", Sixx HD
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1132.png" group-title="UmbrellaTV", Sixx HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1405.ts
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="KABEL 1 HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1663.png" group-title="GERMANY", KABEL 1 HD
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="KABEL 1 HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1663.png" group-title="UmbrellaTV", KABEL 1 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/312.ts
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="KABEL 1 DoKu" tvg-logo="" group-title="GERMANY", KABEL 1 DoKu
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="KABEL 1 DoKu" tvg-logo="" group-title="UmbrellaTV", KABEL 1 DoKu
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3280.ts
-#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="KABEL 1 Classics" tvg-logo="" group-title="GERMANY", KABEL 1 Classics
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="KABEL 1 Classics" tvg-logo="" group-title="UmbrellaTV", KABEL 1 Classics
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2724.ts
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1133.png" group-title="GERMANY", DMAX HD
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1133.png" group-title="UmbrellaTV", DMAX HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/929.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATV 2" tvg-logo="" group-title="GERMANY", ATV 2
+#EXTINF:-1 tvg-id="" tvg-name="ATV 2" tvg-logo="" group-title="UmbrellaTV", ATV 2
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2356.ts
-#EXTINF:-1 tvg-id="" tvg-name="=========GERMANY  News==========" tvg-logo="" group-title="",=========GERMANY  News==========
+#EXTINF:-1 tvg-id="" tvg-name="=========UmbrellaTV  News==========" tvg-logo="" group-title="",=========UmbrellaTV  News==========
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2511.ts
-#EXTINF:-1 tvg-id="" tvg-name="N24 HD" tvg-logo="" group-title="GERMANY", N24 HD
+#EXTINF:-1 tvg-id="" tvg-name="N24 HD" tvg-logo="" group-title="UmbrellaTV", N24 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1426.ts
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="" group-title="GERMANY", Euronews
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="" group-title="UmbrellaTV", Euronews
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1306.ts
-#EXTINF:-1 tvg-id="" tvg-name="AUSTRIA 24" tvg-logo="" group-title="GERMANY", AUSTRIA 24
+#EXTINF:-1 tvg-id="" tvg-name="AUSTRIA 24" tvg-logo="" group-title="UmbrellaTV", AUSTRIA 24
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1795.ts
-#EXTINF:-1 tvg-id="" tvg-name="=========GERMANY  WELT==========" tvg-logo="" group-title="",=========GERMANY  WELT==========
+#EXTINF:-1 tvg-id="" tvg-name="=========UmbrellaTV  WELT==========" tvg-logo="" group-title="",=========UmbrellaTV  WELT==========
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2512.ts
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="" group-title="GERMANY", TLC
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="" group-title="UmbrellaTV", TLC
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2204.ts
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1140.png" group-title="GERMANY", RTL Nitro HD
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1140.png" group-title="UmbrellaTV", RTL Nitro HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/927.ts
-#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1138.png" group-title="GERMANY", RTL Crime
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1138.png" group-title="UmbrellaTV", RTL Crime
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1783.ts
-#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1139.png" group-title="GERMANY", RTL Passion
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1139.png" group-title="UmbrellaTV", RTL Passion
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1785.ts
-#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL LIVING HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1141.png" group-title="GERMANY", RTL LIVING HD
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL LIVING HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1141.png" group-title="UmbrellaTV", RTL LIVING HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2380.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Krimi" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/380.png" group-title="GERMANY", Sky Krimi
+#EXTINF:-1 tvg-id="" tvg-name="Sky Krimi" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/380.png" group-title="UmbrellaTV", Sky Krimi
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1114.ts
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="Fox HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1112.png" group-title="GERMANY", Fox HD
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="Fox HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1112.png" group-title="UmbrellaTV", Fox HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1788.ts
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="Fox" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1112.png" group-title="GERMANY", Fox
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="Fox" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1112.png" group-title="UmbrellaTV", Fox
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2604.ts
-#EXTINF:-1 tvg-id="AandE.de" tvg-name="A&E" tvg-logo="" group-title="GERMANY", A&E
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="A&E" tvg-logo="" group-title="UmbrellaTV", A&E
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2121.ts
-#EXTINF:-1 tvg-id="Syfy DE" tvg-name="SYFY HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1095.png" group-title="GERMANY", SYFY HD
+#EXTINF:-1 tvg-id="Syfy DE" tvg-name="SYFY HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1095.png" group-title="UmbrellaTV", SYFY HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1599.ts
-#EXTINF:-1 tvg-id="Syfy.de" tvg-name="SYFY" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1095.png" group-title="GERMANY", SYFY
+#EXTINF:-1 tvg-id="Syfy.de" tvg-name="SYFY" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1095.png" group-title="UmbrellaTV", SYFY
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2606.ts
-#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT Serie HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1034.png" group-title="GERMANY", TNT Serie HD
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT Serie HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1034.png" group-title="UmbrellaTV", TNT Serie HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/806.ts
-#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT serie" tvg-logo="" group-title="GERMANY", TNT serie
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT serie" tvg-logo="" group-title="UmbrellaTV", TNT serie
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2696.ts
-#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT Film HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1116.png" group-title="GERMANY", TNT Film HD
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT Film HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1116.png" group-title="UmbrellaTV", TNT Film HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/788.ts
-#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT Film" tvg-logo="" group-title="GERMANY", TNT Film
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT Film" tvg-logo="" group-title="UmbrellaTV", TNT Film
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3150.ts
-#EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="TNT Comedy HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1117.png" group-title="GERMANY", TNT Comedy HD
+#EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="TNT Comedy HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1117.png" group-title="UmbrellaTV", TNT Comedy HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2738.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="GERMANY", ATV HD
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="UmbrellaTV", ATV HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2382.ts
-#EXTINF:-1 tvg-id="" tvg-name="PLUS4" tvg-logo="" group-title="GERMANY", PLUS4
+#EXTINF:-1 tvg-id="" tvg-name="PLUS4" tvg-logo="" group-title="UmbrellaTV", PLUS4
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1164.ts
-#EXTINF:-1 tvg-id="AXN.de" tvg-name="AXN HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1101.png" group-title="GERMANY", AXN HD
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="AXN HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1101.png" group-title="UmbrellaTV", AXN HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/807.ts
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE" tvg-logo="" group-title="GERMANY", ANIXE
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE" tvg-logo="" group-title="UmbrellaTV", ANIXE
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1601.ts
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1107.png" group-title="GERMANY", 13th Street FHD
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1107.png" group-title="UmbrellaTV", 13th Street FHD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2605.ts
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1107.png" group-title="GERMANY", 13th Street HD
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1107.png" group-title="UmbrellaTV", 13th Street HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/808.ts
-#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal Channel HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1129.png" group-title="GERMANY", Universal Channel HD
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal Channel HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1129.png" group-title="UmbrellaTV", Universal Channel HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1777.ts
-#EXTINF:-1 tvg-id="SkyArts.de" tvg-name="Sky Arts HD" tvg-logo="" group-title="GERMANY", Sky Arts HD
+#EXTINF:-1 tvg-id="SkyArts.de" tvg-name="Sky Arts HD" tvg-logo="" group-title="UmbrellaTV", Sky Arts HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1688.ts
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="GERMANY", VH1
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="UmbrellaTV", VH1
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2387.ts
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="GERMANY", E!
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="UmbrellaTV", E!
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2488.ts
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KIKA HD" tvg-logo="" group-title="GERMANY", KIKA HD
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KIKA HD" tvg-logo="" group-title="UmbrellaTV", KIKA HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2580.ts
-#EXTINF:-1 tvg-id="" tvg-name="=========GERMANY  Kids==========" tvg-logo="" group-title="",=========GERMANY  Kids==========
+#EXTINF:-1 tvg-id="" tvg-name="=========UmbrellaTV  Kids==========" tvg-logo="" group-title="",=========UmbrellaTV  Kids==========
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2513.ts
-#EXTINF:-1 tvg-id="" tvg-name="Junior" tvg-logo="" group-title="GERMANY", Junior
+#EXTINF:-1 tvg-id="" tvg-name="Junior" tvg-logo="" group-title="UmbrellaTV", Junior
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2570.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network" tvg-logo="" group-title="GERMANY", Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network" tvg-logo="" group-title="UmbrellaTV", Cartoon Network
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2569.ts
-#EXTINF:-1 tvg-id="Boomerang DE" tvg-name="Boomerang" tvg-logo="" group-title="GERMANY", Boomerang
+#EXTINF:-1 tvg-id="Boomerang DE" tvg-name="Boomerang" tvg-logo="" group-title="UmbrellaTV", Boomerang
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1794.ts
-#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior HD" tvg-logo="" group-title="GERMANY", Disney Junior HD
+#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior HD" tvg-logo="" group-title="UmbrellaTV", Disney Junior HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2355.ts
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel HD" tvg-logo="" group-title="GERMANY", Disney Channel HD
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel HD" tvg-logo="" group-title="UmbrellaTV", Disney Channel HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/920.ts
-#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic HD" tvg-logo="" group-title="GERMANY", Disney Cinemagic HD
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic HD" tvg-logo="" group-title="UmbrellaTV", Disney Cinemagic HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1616.ts
-#EXTINF:-1 tvg-id="DisneyXD.de" tvg-name="Disney XD HD" tvg-logo="" group-title="GERMANY", Disney XD HD
+#EXTINF:-1 tvg-id="DisneyXD.de" tvg-name="Disney XD HD" tvg-logo="" group-title="UmbrellaTV", Disney XD HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2385.ts
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="" group-title="GERMANY", Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="" group-title="UmbrellaTV", Nickelodeon
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2353.ts
-#EXTINF:-1 tvg-id="" tvg-name="=========GERMANY  DOKUMENTATION==========" tvg-logo="" group-title="",=========GERMANY  DOKUMENTATION==========
+#EXTINF:-1 tvg-id="" tvg-name="=========UmbrellaTV  DOKUMENTATION==========" tvg-logo="" group-title="",=========UmbrellaTV  DOKUMENTATION==========
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2514.ts
-#EXTINF:-1 tvg-id="" tvg-name="Spiegel Geschichte HD" tvg-logo="" group-title="GERMANY", Spiegel Geschichte HD
+#EXTINF:-1 tvg-id="" tvg-name="Spiegel Geschichte HD" tvg-logo="" group-title="UmbrellaTV", Spiegel Geschichte HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1779.ts
-#EXTINF:-1 tvg-id="" tvg-name="Spiegel TV Wissen" tvg-logo="" group-title="GERMANY", Spiegel TV Wissen
+#EXTINF:-1 tvg-id="" tvg-name="Spiegel TV Wissen" tvg-logo="" group-title="UmbrellaTV", Spiegel TV Wissen
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2386.ts
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix HD" tvg-logo="" group-title="GERMANY", Phoenix HD
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix HD" tvg-logo="" group-title="UmbrellaTV", Phoenix HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1163.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD" tvg-logo="" group-title="GERMANY", Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD" tvg-logo="" group-title="UmbrellaTV", Animal Planet HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2469.ts
-#EXTINF:-1 tvg-id="PLANET.de" tvg-name="Planet HD" tvg-logo="" group-title="GERMANY", Planet HD
+#EXTINF:-1 tvg-id="PLANET.de" tvg-name="Planet HD" tvg-logo="" group-title="UmbrellaTV", Planet HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2120.ts
-#EXTINF:-1 tvg-id="history DE" tvg-name="History HD" tvg-logo="" group-title="GERMANY", History HD
+#EXTINF:-1 tvg-id="history DE" tvg-name="History HD" tvg-logo="" group-title="UmbrellaTV", History HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1113.ts
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Discovery Channel" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1109.png" group-title="GERMANY", Discovery Channel
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Discovery Channel" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1109.png" group-title="UmbrellaTV", Discovery Channel
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2747.ts
-#EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-name="Discovery Channel HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1109.png" group-title="GERMANY", Discovery Channel HD
+#EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-name="Discovery Channel HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1109.png" group-title="UmbrellaTV", Discovery Channel HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/921.ts
-#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="National Geo" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/369.png" group-title="GERMANY", National Geo
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="National Geo" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/369.png" group-title="UmbrellaTV", National Geo
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2541.ts
-#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geo HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/369.png" group-title="GERMANY", National Geo HD
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geo HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/369.png" group-title="UmbrellaTV", National Geo HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/304.ts
-#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="NatGeo Wild" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1108.png" group-title="GERMANY", NatGeo Wild
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="NatGeo Wild" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1108.png" group-title="UmbrellaTV", NatGeo Wild
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2714.ts
-#EXTINF:-1 tvg-id="NAT GEO Wild DE" tvg-name="NatGeo Wild HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1108.png" group-title="GERMANY", NatGeo Wild HD
+#EXTINF:-1 tvg-id="NAT GEO Wild DE" tvg-name="NatGeo Wild HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1108.png" group-title="UmbrellaTV", NatGeo Wild HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1160.ts
-#EXTINF:-1 tvg-id="" tvg-name="=========GERMANY  CINEMA==========" tvg-logo="" group-title="",=========GERMANY  CINEMA==========
+#EXTINF:-1 tvg-id="" tvg-name="=========UmbrellaTV  CINEMA==========" tvg-logo="" group-title="",=========UmbrellaTV  CINEMA==========
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2515.ts
-#EXTINF:-1 tvg-id="Sky1.de" tvg-name="SKY 1 HD" tvg-logo="" group-title="GERMANY", SKY 1 HD
+#EXTINF:-1 tvg-id="Sky1.de" tvg-name="SKY 1 HD" tvg-logo="" group-title="UmbrellaTV", SKY 1 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2913.ts
-#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="KinoWelt" tvg-logo="" group-title="GERMANY", KinoWelt
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="KinoWelt" tvg-logo="" group-title="UmbrellaTV", KinoWelt
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2203.ts
-#EXTINF:-1 tvg-id="SkyHits.de" tvg-name="Sky Hits FHD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/379.png" group-title="GERMANY", Sky Hits FHD
+#EXTINF:-1 tvg-id="SkyHits.de" tvg-name="Sky Hits FHD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/379.png" group-title="UmbrellaTV", Sky Hits FHD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1689.ts
-#EXTINF:-1 tvg-id="SkyHits.de" tvg-name="Sky Hits" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/379.png" group-title="GERMANY", Sky Hits
+#EXTINF:-1 tvg-id="SkyHits.de" tvg-name="Sky Hits" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/379.png" group-title="UmbrellaTV", Sky Hits
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2468.ts
-#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Action HD" tvg-logo="" group-title="GERMANY", Sky Action HD
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Action HD" tvg-logo="" group-title="UmbrellaTV", Sky Action HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/918.ts
-#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Action FHD" tvg-logo="" group-title="GERMANY", Sky Action FHD
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Action FHD" tvg-logo="" group-title="UmbrellaTV", Sky Action FHD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2467.ts
-#EXTINF:-1 tvg-id="Sky COMEDY DE" tvg-name="Sky Comedy HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/373.png" group-title="GERMANY", Sky Comedy HD
+#EXTINF:-1 tvg-id="Sky COMEDY DE" tvg-name="Sky Comedy HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/373.png" group-title="UmbrellaTV", Sky Comedy HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/322.ts
-#EXTINF:-1 tvg-id="Sky Cinema DE" tvg-name="Sky Cinema HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/371.png" group-title="GERMANY", Sky Cinema HD
+#EXTINF:-1 tvg-id="Sky Cinema DE" tvg-name="Sky Cinema HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/371.png" group-title="UmbrellaTV", Sky Cinema HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/323.ts
-#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky Cinema" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/371.png" group-title="GERMANY", Sky Cinema
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky Cinema" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/371.png" group-title="UmbrellaTV", Sky Cinema
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2568.ts
-#EXTINF:-1 tvg-id="Sky Cinema +1 DE" tvg-name="Sky Cinema +1 HD" tvg-logo="" group-title="GERMANY", Sky Cinema +1 HD
+#EXTINF:-1 tvg-id="Sky Cinema +1 DE" tvg-name="Sky Cinema +1 HD" tvg-logo="" group-title="UmbrellaTV", Sky Cinema +1 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1690.ts
-#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky Cinema +24 HD." tvg-logo="" group-title="GERMANY", Sky Cinema +24 HD.
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky Cinema +24 HD." tvg-logo="" group-title="UmbrellaTV", Sky Cinema +24 HD.
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2748.ts
-#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky Cinema +24 HD" tvg-logo="" group-title="GERMANY", Sky Cinema +24 HD
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky Cinema +24 HD" tvg-logo="" group-title="UmbrellaTV", Sky Cinema +24 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/324.ts
-#EXTINF:-1 tvg-id="SkyFamily.de" tvg-name="Sky Family HD" tvg-logo="" group-title="GERMANY", Sky Family HD
+#EXTINF:-1 tvg-id="SkyFamily.de" tvg-name="Sky Family HD" tvg-logo="" group-title="UmbrellaTV", Sky Family HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4928.ts
-#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="SKY ATLANTIC" tvg-logo="" group-title="GERMANY", SKY ATLANTIC
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="SKY ATLANTIC" tvg-logo="" group-title="UmbrellaTV", SKY ATLANTIC
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2610.ts
-#EXTINF:-1 tvg-id="Sky Atlantic HD DE" tvg-name="SKY ATLANTIC HD" tvg-logo="" group-title="GERMANY", SKY ATLANTIC HD
+#EXTINF:-1 tvg-id="Sky Atlantic HD DE" tvg-name="SKY ATLANTIC HD" tvg-logo="" group-title="UmbrellaTV", SKY ATLANTIC HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/326.ts
-#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="SKY ATLANTIC +1 HD" tvg-logo="" group-title="GERMANY", SKY ATLANTIC +1 HD
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="SKY ATLANTIC +1 HD" tvg-logo="" group-title="UmbrellaTV", SKY ATLANTIC +1 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1796.ts
-#EXTINF:-1 tvg-id="SkyEmotion.de" tvg-name="Sky Emotion" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1093.png" group-title="GERMANY", Sky Emotion
+#EXTINF:-1 tvg-id="SkyEmotion.de" tvg-name="Sky Emotion" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1093.png" group-title="UmbrellaTV", Sky Emotion
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1406.ts
-#EXTINF:-1 tvg-id="SkyNostalgie.de" tvg-name="Sky Nostalgie" tvg-logo="" group-title="GERMANY", Sky Nostalgie
+#EXTINF:-1 tvg-id="SkyNostalgie.de" tvg-name="Sky Nostalgie" tvg-logo="" group-title="UmbrellaTV", Sky Nostalgie
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2424.ts
-#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV HD" tvg-logo="" group-title="GERMANY", Romance TV HD
+#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV HD" tvg-logo="" group-title="UmbrellaTV", Romance TV HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2383.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 1" tvg-logo="" group-title="GERMANY", Sky Select HD 1
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 1" tvg-logo="" group-title="UmbrellaTV", Sky Select HD 1
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2358.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 2" tvg-logo="" group-title="GERMANY", Sky Select HD 2
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 2" tvg-logo="" group-title="UmbrellaTV", Sky Select HD 2
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2359.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 3" tvg-logo="" group-title="GERMANY", Sky Select HD 3
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 3" tvg-logo="" group-title="UmbrellaTV", Sky Select HD 3
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2360.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 4" tvg-logo="" group-title="GERMANY", Sky Select HD 4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 4" tvg-logo="" group-title="UmbrellaTV", Sky Select HD 4
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2361.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 5" tvg-logo="" group-title="GERMANY", Sky Select HD 5
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 5" tvg-logo="" group-title="UmbrellaTV", Sky Select HD 5
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2362.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 6" tvg-logo="" group-title="GERMANY", Sky Select HD 6
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 6" tvg-logo="" group-title="UmbrellaTV", Sky Select HD 6
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2363.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 7" tvg-logo="" group-title="GERMANY", Sky Select HD 7
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 7" tvg-logo="" group-title="UmbrellaTV", Sky Select HD 7
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2364.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 8" tvg-logo="" group-title="GERMANY", Sky Select HD 8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 8" tvg-logo="" group-title="UmbrellaTV", Sky Select HD 8
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1403.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 9" tvg-logo="" group-title="GERMANY", Sky Select HD 9
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 9" tvg-logo="" group-title="UmbrellaTV", Sky Select HD 9
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2086.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 10" tvg-logo="" group-title="GERMANY", Sky Select HD 10
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 10" tvg-logo="" group-title="UmbrellaTV", Sky Select HD 10
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2087.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD11" tvg-logo="" group-title="GERMANY", Sky Select HD11
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD11" tvg-logo="" group-title="UmbrellaTV", Sky Select HD11
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/916.ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX GERMANY HD" tvg-logo="" group-title="GERMANY", FILMBOX GERMANY HD
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX UmbrellaTV HD" tvg-logo="" group-title="UmbrellaTV", FILMBOX UmbrellaTV HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3952.ts
-#EXTINF:-1 tvg-id="" tvg-name="FILM CLUB HD 1" tvg-logo="" group-title="GERMANY", FILM CLUB HD 1
+#EXTINF:-1 tvg-id="" tvg-name="FILM CLUB HD 1" tvg-logo="" group-title="UmbrellaTV", FILM CLUB HD 1
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2930.ts
-#EXTINF:-1 tvg-id="" tvg-name="FILM CLUB HD 2" tvg-logo="" group-title="GERMANY", FILM CLUB HD 2
+#EXTINF:-1 tvg-id="" tvg-name="FILM CLUB HD 2" tvg-logo="" group-title="UmbrellaTV", FILM CLUB HD 2
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2929.ts
-#EXTINF:-1 tvg-id="" tvg-name="FILM CLUB HD 3" tvg-logo="" group-title="GERMANY", FILM CLUB HD 3
+#EXTINF:-1 tvg-id="" tvg-name="FILM CLUB HD 3" tvg-logo="" group-title="UmbrellaTV", FILM CLUB HD 3
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2928.ts
-#EXTINF:-1 tvg-id="" tvg-name="FILM CLUB HD 4" tvg-logo="" group-title="GERMANY", FILM CLUB HD 4
+#EXTINF:-1 tvg-id="" tvg-name="FILM CLUB HD 4" tvg-logo="" group-title="UmbrellaTV", FILM CLUB HD 4
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2927.ts
-#EXTINF:-1 tvg-id="" tvg-name="FILM CLUB HD 5" tvg-logo="" group-title="GERMANY", FILM CLUB HD 5
+#EXTINF:-1 tvg-id="" tvg-name="FILM CLUB HD 5" tvg-logo="" group-title="UmbrellaTV", FILM CLUB HD 5
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2926.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 1" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 1
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 1" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 1
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4127.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 2" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 2
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 2" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 2
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4126.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 3" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 3
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 3" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 3
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4125.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 4" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 4" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 4
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4124.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 5" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 5
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 5" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 5
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4123.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 6" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 6
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 6" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 6
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4122.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 7" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 7
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 7" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 7
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4121.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 8" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 8" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 8
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4120.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 9" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 9
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 9" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 9
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4119.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 10" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 10
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 10" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 10
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4118.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 11" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 11
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 11" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 11
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4117.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 12" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 12
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 12" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 12
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4116.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 13" tvg-logo="" group-title="GERMANY", Sky Movies BoxOffice 13
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 13" tvg-logo="" group-title="UmbrellaTV", Sky Movies BoxOffice 13
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4115.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY3D BOXOFFICE" tvg-logo="" group-title="GERMANY", SKY3D BOXOFFICE
+#EXTINF:-1 tvg-id="" tvg-name="SKY3D BOXOFFICE" tvg-logo="" group-title="UmbrellaTV", SKY3D BOXOFFICE
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4114.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 1 HD" tvg-logo="" group-title="GERMANY", MOVIESINEMA GERMAN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 1 HD" tvg-logo="" group-title="UmbrellaTV", MOVIESINEMA GERMAN 1 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/5097.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 2 HD" tvg-logo="" group-title="GERMANY", MOVIESINEMA GERMAN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 2 HD" tvg-logo="" group-title="UmbrellaTV", MOVIESINEMA GERMAN 2 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/5096.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 3 HD" tvg-logo="" group-title="GERMANY", MOVIESINEMA GERMAN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 3 HD" tvg-logo="" group-title="UmbrellaTV", MOVIESINEMA GERMAN 3 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/5095.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 4 HD" tvg-logo="" group-title="GERMANY", MOVIESINEMA GERMAN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 4 HD" tvg-logo="" group-title="UmbrellaTV", MOVIESINEMA GERMAN 4 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/5094.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 5 HD" tvg-logo="" group-title="GERMANY", MOVIESINEMA GERMAN 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 5 HD" tvg-logo="" group-title="UmbrellaTV", MOVIESINEMA GERMAN 5 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/5093.ts
-#EXTINF:-1 tvg-id="" tvg-name="=========GERMANY  SPORT==========" tvg-logo="" group-title="",=========GERMANY  SPORT==========
+#EXTINF:-1 tvg-id="" tvg-name="=========UmbrellaTV  SPORT==========" tvg-logo="" group-title="",=========UmbrellaTV  SPORT==========
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2516.ts
-#EXTINF:-1 tvg-id="" tvg-name="Motorvision TV" tvg-logo="" group-title="GERMANY", Motorvision TV
+#EXTINF:-1 tvg-id="" tvg-name="Motorvision TV" tvg-logo="" group-title="UmbrellaTV", Motorvision TV
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1786.ts
-#EXTINF:-1 tvg-id="" tvg-name="Auto Motor Sport Channel HD" tvg-logo="" group-title="GERMANY", Auto Motor Sport Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Auto Motor Sport Channel HD" tvg-logo="" group-title="UmbrellaTV", Auto Motor Sport Channel HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2720.ts
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="GERMANY", EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="UmbrellaTV", EUROSPORT 1 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1409.ts
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="EUROSPORT 1" tvg-logo="" group-title="GERMANY", EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="EUROSPORT 1" tvg-logo="" group-title="UmbrellaTV", EUROSPORT 1
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3255.ts
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="GERMANY", EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="UmbrellaTV", EUROSPORT 2 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3149.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 Xtra HD" tvg-logo="" group-title="GERMANY", Eurosport 2 Xtra HD
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 Xtra HD" tvg-logo="" group-title="UmbrellaTV", Eurosport 2 Xtra HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3278.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport360 2 FHD" tvg-logo="" group-title="GERMANY", Eurosport360 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport360 2 FHD" tvg-logo="" group-title="UmbrellaTV", Eurosport360 2 FHD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4209.ts
-#EXTINF:-1 tvg-id="Sportdigital HD DE" tvg-name="Sportdigital HD" tvg-logo="" group-title="GERMANY", Sportdigital HD
+#EXTINF:-1 tvg-id="Sportdigital HD DE" tvg-name="Sportdigital HD" tvg-logo="" group-title="UmbrellaTV", Sportdigital HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1778.ts
-#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="Sky Sport Austria" tvg-logo="" group-title="GERMANY", Sky Sport Austria
+#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="Sky Sport Austria" tvg-logo="" group-title="UmbrellaTV", Sky Sport Austria
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/310.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria." tvg-logo="" group-title="GERMANY", Sky Sport Austria.
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria." tvg-logo="" group-title="UmbrellaTV", Sky Sport Austria.
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2763.ts
-#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="Sport 1 HD" tvg-logo="" group-title="GERMANY", Sport 1 HD
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="Sport 1 HD" tvg-logo="" group-title="UmbrellaTV", Sport 1 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3254.ts
-#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="Sport 1+ HD" tvg-logo="" group-title="GERMANY", Sport 1+ HD
+#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="Sport 1+ HD" tvg-logo="" group-title="UmbrellaTV", Sport 1+ HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2540.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport 1 US HD" tvg-logo="" group-title="GERMANY", Sport 1 US HD
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1 US HD" tvg-logo="" group-title="UmbrellaTV", Sport 1 US HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2202.ts
-#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News" tvg-logo="" group-title="GERMANY", Sky Sport News
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News" tvg-logo="" group-title="UmbrellaTV", Sky Sport News
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1780.ts
-#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News." tvg-logo="" group-title="GERMANY", Sky Sport News.
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News." tvg-logo="" group-title="UmbrellaTV", Sky Sport News.
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2739.ts
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1" tvg-logo="" group-title="GERMANY", Sky Sport 1
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1" tvg-logo="" group-title="UmbrellaTV", Sky Sport 1
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3165.ts
-#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="Sky Sports 1 FHD" tvg-logo="" group-title="GERMANY", Sky Sports 1 FHD
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="Sky Sports 1 FHD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 1 FHD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/321.ts
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sports 1 HD" tvg-logo="" group-title="GERMANY", Sky Sports 1 HD
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sports 1 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 1 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2466.ts
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sports 2 HD" tvg-logo="" group-title="GERMANY", Sky Sports 2 HD
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sports 2 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 2 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/320.ts
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sports 2" tvg-logo="" group-title="GERMANY", Sky Sports 2
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sports 2" tvg-logo="" group-title="UmbrellaTV", Sky Sports 2
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2632.ts
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sports 3 HD" tvg-logo="" group-title="GERMANY", Sky Sports 3 HD
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sports 3 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 3 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2384.ts
-#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sports 4 HD" tvg-logo="" group-title="GERMANY", Sky Sports 4 HD
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sports 4 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 4 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2832.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 5 HD" tvg-logo="" group-title="GERMANY", Sky Sports 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 5 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 5 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2833.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 6 HD" tvg-logo="" group-title="GERMANY", Sky Sports 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 6 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 6 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2834.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 7 HD" tvg-logo="" group-title="GERMANY", Sky Sports 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 7 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 7 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2835.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 8 HD" tvg-logo="" group-title="GERMANY", Sky Sports 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 8 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 8 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2836.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 9 HD" tvg-logo="" group-title="GERMANY", Sky Sports 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 9 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 9 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2837.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 10 HD" tvg-logo="" group-title="GERMANY", Sky Sports 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 10 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 10 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2838.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 11 HD" tvg-logo="" group-title="GERMANY", Sky Sports 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 11 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sports 11 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2839.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 1" tvg-logo="" group-title="GERMANY", SKY BUNDESLIGA 1
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 1" tvg-logo="" group-title="UmbrellaTV", SKY BUNDESLIGA 1
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2740.ts
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD DE" tvg-name="SKY BUNDESLIGA HD 1" tvg-logo="" group-title="GERMANY", SKY BUNDESLIGA HD 1
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD DE" tvg-name="SKY BUNDESLIGA HD 1" tvg-logo="" group-title="UmbrellaTV", SKY BUNDESLIGA HD 1
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/300.ts
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="SKY BUNDESLIGA HD 2 --- MATCH TIME ---" tvg-logo="" group-title="GERMANY", SKY BUNDESLIGA HD 2 --- MATCH TIME ---
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="SKY BUNDESLIGA HD 2 --- MATCH TIME ---" tvg-logo="" group-title="UmbrellaTV", SKY BUNDESLIGA HD 2 --- MATCH TIME ---
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1962.ts
-#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="SKY BUNDESLIGA HD 3 --- MATCH TIME ---" tvg-logo="" group-title="GERMANY", SKY BUNDESLIGA HD 3 --- MATCH TIME ---
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="SKY BUNDESLIGA HD 3 --- MATCH TIME ---" tvg-logo="" group-title="UmbrellaTV", SKY BUNDESLIGA HD 3 --- MATCH TIME ---
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1961.ts
-#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="SKY BUNDESLIGA HD 4 --- MATCH TIME ---" tvg-logo="" group-title="GERMANY", SKY BUNDESLIGA HD 4 --- MATCH TIME ---
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="SKY BUNDESLIGA HD 4 --- MATCH TIME ---" tvg-logo="" group-title="UmbrellaTV", SKY BUNDESLIGA HD 4 --- MATCH TIME ---
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1960.ts
-#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="SKY BUNDESLIGA HD 5 --- MATCH TIME ----" tvg-logo="" group-title="GERMANY", SKY BUNDESLIGA HD 5 --- MATCH TIME ----
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="SKY BUNDESLIGA HD 5 --- MATCH TIME ----" tvg-logo="" group-title="UmbrellaTV", SKY BUNDESLIGA HD 5 --- MATCH TIME ----
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1959.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA HD 6 --- MATCH TIME ---" tvg-logo="" group-title="GERMANY", SKY BUNDESLIGA HD 6 --- MATCH TIME ---
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA HD 6 --- MATCH TIME ---" tvg-logo="" group-title="UmbrellaTV", SKY BUNDESLIGA HD 6 --- MATCH TIME ---
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1958.ts
-#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="SKY BUNDESLIGA HD 7 --- MATCH TIME ---" tvg-logo="" group-title="GERMANY", SKY BUNDESLIGA HD 7 --- MATCH TIME ---
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="SKY BUNDESLIGA HD 7 --- MATCH TIME ---" tvg-logo="" group-title="UmbrellaTV", SKY BUNDESLIGA HD 7 --- MATCH TIME ---
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1957.ts
-#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="SKY BUNDESLIGA HD 8 --- MATCH TIME ----" tvg-logo="" group-title="GERMANY", SKY BUNDESLIGA HD 8 --- MATCH TIME ----
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="SKY BUNDESLIGA HD 8 --- MATCH TIME ----" tvg-logo="" group-title="UmbrellaTV", SKY BUNDESLIGA HD 8 --- MATCH TIME ----
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1956.ts
-#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="SKY BUNDESLIGA HD 9 --- MATCH TIME ----" tvg-logo="" group-title="GERMANY", SKY BUNDESLIGA HD 9 --- MATCH TIME ----
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="SKY BUNDESLIGA HD 9 --- MATCH TIME ----" tvg-logo="" group-title="UmbrellaTV", SKY BUNDESLIGA HD 9 --- MATCH TIME ----
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1955.ts
-#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="SKY BUNDESLIGA HD 10 ---- MATCH TIME ----" tvg-logo="" group-title="GERMANY", SKY BUNDESLIGA HD 10 ---- MATCH TIME ----
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="SKY BUNDESLIGA HD 10 ---- MATCH TIME ----" tvg-logo="" group-title="UmbrellaTV", SKY BUNDESLIGA HD 10 ---- MATCH TIME ----
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1963.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAYERN FC TV FHD" tvg-logo="" group-title="GERMANY", BAYERN FC TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="BAYERN FC TV FHD" tvg-logo="" group-title="UmbrellaTV", BAYERN FC TV FHD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4399.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport DAZN 1 HD" tvg-logo="" group-title="GERMANY", Sky Sport DAZN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport DAZN 1 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sport DAZN 1 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4479.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport DAZN 2 HD" tvg-logo="" group-title="GERMANY", Sky Sport DAZN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport DAZN 2 HD" tvg-logo="" group-title="UmbrellaTV", Sky Sport DAZN 2 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4480.ts
