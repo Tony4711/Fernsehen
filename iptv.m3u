@@ -1,110 +1,111 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-name="=========Entertain==========" group-title="",=========Entertain==========
-#EXTINF:-1, group-title="Entertain", Das Erste 
+#EXTINF:-1 group-title="Entertain", Das Erste 
 rtp://@239.35.10.4:10000
-#EXTINF:-1, group-title="Entertain", ZDF
+#EXTINF:-1 group-title="Entertain", ZDF
 rtp://@239.35.10.5:10000
-#EXTINF:-1, group-title="Entertain", RTL
+#EXTINF:-1 group-title="Entertain", RTL
 rtp://@239.35.20.10:10000
-#EXTINF:-1, group-title="Entertain", Sat.1
+#EXTINF:-1 group-title="Entertain", Sat.1
 rtp://@239.35.20.20:10000
-#EXTINF:-1, group-title="Entertain", ProSieben
+#EXTINF:-1 group-title="Entertain", ProSieben
 rtp://@239.35.20.21:10000
-#EXTINF:-1, group-title="Entertain", VOX
+#EXTINF:-1 group-title="Entertain", VOX
 rtp://@239.35.20.11:10000
-#EXTINF:-1, group-title="Entertain", Kabel 1
+#EXTINF:-1 group-title="Entertain", Kabel 1
 rtp://@239.35.20.38:10000
-#EXTINF:-1, group-title="Entertain", RTL II
+#EXTINF:-1 group-title="Entertain", RTL II
 rtp://@239.35.20.22:10000
-#EXTINF:-1, group-title="Entertain", Super RTL
+#EXTINF:-1 group-title="Entertain", Super RTL
 rtp://@239.35.20.39:10000
-#EXTINF:-1, group-title="Entertain", KiKA
+#EXTINF:-1 group-title="Entertain", KiKA
 rtp://@239.35.10.19:10000
-#EXTINF:-1, group-title="Entertain", 3sat
+#EXTINF:-1 group-title="Entertain", 3sat
 rtp://@239.35.10.6:10000
-#EXTINF:-1, group-title="Entertain", n-tv
+#EXTINF:-1 group-title="Entertain", n-tv
 rtp://@239.35.20.47:10000
-#EXTINF:-1, group-title="Entertain", PHOENIX
+#EXTINF:-1 group-title="Entertain", PHOENIX
 rtp://@239.35.10.22:10000
-#EXTINF:-1, group-title="Entertain", zdf_neo
+#EXTINF:-1 group-title="Entertain", zdf_neo
 rtp://@239.35.10.27:10000
-#EXTINF:-1, group-title="Entertain", BR Süd
+#EXTINF:-1 group-title="Entertain", BR Süd
 rtp://@239.35.10.7:10000
-#EXTINF:-1, group-title="Entertain", hr
+#EXTINF:-1 group-title="Entertain", hr
 rtp://@239.35.10.8:10000
-#EXTINF:-1, group-title="Entertain", NDR
+#EXTINF:-1 group-title="Entertain", NDR
 rtp://@239.35.10.10:10000
-#EXTINF:-1, group-title="Entertain", rbb Berlin
+#EXTINF:-1 group-title="Entertain", rbb Berlin
 rtp://@239.35.10.14:10000
-#EXTINF:-1, group-title="Entertain", SR
+#EXTINF:-1 group-title="Entertain", SR
 rtp://@239.35.10.15:10000
-#EXTINF:-1, group-title="Entertain", SWR BW
+#EXTINF:-1 group-title="Entertain", SWR BW
 rtp://@239.35.10.16:10000
-#EXTINF:-1, group-title="Entertain", SWR RP
+#EXTINF:-1 group-title="Entertain", SWR RP
 rtp://@239.35.10.17:10000
-#EXTINF:-1, group-title="Entertain", WDR
+#EXTINF:-1 group-title="Entertain", WDR
 rtp://@239.35.10.18:10000
-#EXTINF:-1, group-title="Entertain", ARTE
+#EXTINF:-1 group-title="Entertain", ARTE
 rtp://@239.35.10.20:10000
-#EXTINF:-1, group-title="Entertain", ONE
+#EXTINF:-1 group-title="Entertain", ONE
 rtp://@239.35.10.21:10000
-#EXTINF:-1, group-title="Entertain", sixx
+#EXTINF:-1 group-title="Entertain", sixx
 rtp://@239.35.20.9:10000
-#EXTINF:-1, group-title="Entertain", RTLNITRO
+#EXTINF:-1 group-title="Entertain", RTLNITRO
 rtp://@239.35.20.59:10000
-#EXTINF:-1, group-title="Entertain", RTLplus
+#EXTINF:-1 group-title="Entertain", RTLplus
 rtp://@239.35.20.57:10000
-#EXTINF:-1, group-title="Entertain", Sat.1 Gold
+#EXTINF:-1 group-title="Entertain", Sat.1 Gold
 rtp://@239.35.20.24:10000
-#EXTINF:-1, group-title="Entertain", ProSieben MAXX
+#EXTINF:-1 group-title="Entertain", ProSieben MAXX
 rtp://@239.35.20.33:10000
-#EXTINF:-1, group-title="Entertain", ARD-alpha
+#EXTINF:-1 group-title="Entertain", ARD-alpha
 rtp://@239.35.10.24:10000
-#EXTINF:-1, group-title="Entertain", Tagesschau24
+#EXTINF:-1 group-title="Entertain", Tagesschau24
 rtp://@239.35.10.25:10000
-#EXTINF:-1, group-title="Entertain", kabel eins Doku
+#EXTINF:-1 group-title="Entertain", kabel eins Doku
 rtp://@239.35.20.67:10000
-#EXTINF:-1, group-title="Entertain", ZDFinfo
+#EXTINF:-1 group-title="Entertain", ZDFinfo
 rtp://@239.35.10.28:10000
-#EXTINF:-1, group-title="Entertain", rbb Brandenburg
+#EXTINF:-1 group-title="Entertain", rbb Brandenburg
 rtp://@239.35.10.34:10000
-#EXTINF:-1, group-title="Entertain", Das Erste HD
+#EXTINF:-1 group-title="Entertain", Das Erste HD
 rtp://@239.35.10.1:10000
-#EXTINF:-1, group-title="Entertain", ZDF HD
+#EXTINF:-1 group-title="Entertain", ZDF HD
 rtp://@239.35.10.2:10000
-#EXTINF:-1, group-title="Entertain", KiKA HD
+#EXTINF:-1 group-title="Entertain", KiKA HD
 rtp://@239.35.10.11:10000
-#EXTINF:-1, group-title="Entertain", 3sat HD
+#EXTINF:-1 group-title="Entertain", 3sat HD
 rtp://@239.35.10.47:10000
-#EXTINF:-1, group-title="Entertain", PHOENIX HD
+#EXTINF:-1 group-title="Entertain", PHOENIX HD
 rtp://@239.35.10.48:10000
-#EXTINF:-1, group-title="Entertain", zdf_neo HD
+#EXTINF:-1 group-title="Entertain", zdf_neo HD
 rtp://@239.35.10.55:10000
-#EXTINF:-1, group-title="Entertain", BR Süd HD
+#EXTINF:-1 group-title="Entertain", BR Süd HD
 rtp://@239.35.10.49:10000
-#EXTINF:-1, group-title="Entertain", hr HD
+#EXTINF:-1 group-title="Entertain", hr HD
 rtp://@239.35.10.60:10000
-#EXTINF:-1, group-title="Entertain", MDR HD
+#EXTINF:-1 group-title="Entertain", MDR HD
 rtp://@239.35.10.61:10000
-#EXTINF:-1, group-title="Entertain", NDR HD
+#EXTINF:-1 group-title="Entertain", NDR HD
 rtp://@239.35.10.50:10000
-#EXTINF:-1, group-title="Entertain", rbb Berlin HD
+#EXTINF:-1 group-title="Entertain", rbb Berlin HD
 rtp://@239.35.10.62:10000
-#EXTINF:-1, group-title="Entertain", SR HD
+#EXTINF:-1 group-title="Entertain", SR HD
 rtp://@239.35.10.64:10000
-#EXTINF:-1, group-title="Entertain", SWR BW HD
+#EXTINF:-1 group-title="Entertain", SWR BW HD
 rtp://@239.35.10.51:10000
-#EXTINF:-1, group-title="Entertain", SWR RP HD
+#EXTINF:-1 group-title="Entertain", SWR RP HD
 rtp://@239.35.10.52:10000
-#EXTINF:-1, group-title="Entertain", WDR HD
+#EXTINF:-1 group-title="Entertain", WDR HD
 rtp://@239.35.10.53:10000
-#EXTINF:-1, group-title="Entertain", ARTE HD
+#EXTINF:-1 group-title="Entertain", ARTE HD
 rtp://@239.35.10.3:10000
-#EXTINF:-1, group-title="Entertain", ONE HD
+#EXTINF:-1 group-title="Entertain", ONE HD
 rtp://@239.35.10.58:10000
-#EXTINF:-1, group-title="Entertain", tagesschau24 HD
+#EXTINF:-1 group-title="Entertain", tagesschau24 HD
 rtp://@239.35.10.63:10000
-#EXTINF:-1, group-title="Entertain", ZDFinfo HD
+#EXTINF:-1 group-title="Entertain", ZDFinfo HD
 rtp://@239.35.10.56:10000
 #EXTINF:-1 tvg-id="" tvg-name="=========GERMANY  STANDARD==========" tvg-logo="" group-title="",=========GERMANY  STANDARD==========
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2508.ts
@@ -477,3 +478,4 @@ http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4479.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport DAZN 2 HD" tvg-logo="" group-title="GERMANY", Sky Sport DAZN 2 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4480.ts
 
+ 
