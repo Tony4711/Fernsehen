@@ -109,20 +109,12 @@ rtp://@239.35.10.63:10000
 rtp://@239.35.10.56:10000
 #EXTINF:-1 tvg-id="" tvg-name="=========GERMANY  STANDARD==========" tvg-logo="" group-title="",=========GERMANY  STANDARD==========
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2508.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARD HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1130.png" group-title="GERMANY", ARD HD
-http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1427.ts
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="" group-title="GERMANY", ZDF
-http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/307.ts
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD" tvg-logo="" group-title="GERMANY", ZDF HD
-http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1140.ts
 #EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="Sat 1" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1134.png" group-title="GERMANY",  Sat 1
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1597.ts
 #EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat 1 Gold" tvg-logo="" group-title="GERMANY", Sat 1 Gold
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2539.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sat 1 emotions" tvg-logo="" group-title="GERMANY", Sat 1 emotions
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3279.ts
-#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal" tvg-logo="" group-title="GERMANY", Heimatkanal
-http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2718.ts
 #EXTINF:-1 tvg-id="" tvg-name="Deluxe Music" tvg-logo="" group-title="GERMANY", Deluxe Music
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/3632.ts
 #EXTINF:-1 tvg-id="" tvg-name="Goldstar" tvg-logo="" group-title="GERMANY", Goldstar
@@ -147,10 +139,6 @@ http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2826.ts
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2489.ts
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="Pro7 Maxx HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1128.png" group-title="GERMANY", Pro7 Maxx HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2577.ts
-#EXTINF:-1 tvg-id="hr-Fernsehen.de" tvg-name="Hr HD" tvg-logo="" group-title="GERMANY", Hr HD
-http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2578.ts
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste HD" tvg-logo="" group-title="GERMANY", Das Erste HD
-http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2621.ts
 #EXTINF:-1 tvg-id="ComedyVIVA.ch" tvg-name="Comedy Central" tvg-logo="" group-title="GERMANY", Comedy Central
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2579.ts
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1131.png" group-title="GERMANY", VOX HD
@@ -251,8 +239,6 @@ http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2385.ts
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2353.ts
 #EXTINF:-1 tvg-id="" tvg-name="=========GERMANY  DOKUMENTATION==========" tvg-logo="" group-title="",=========GERMANY  DOKUMENTATION==========
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/2514.ts
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.de" tvg-name="Sony HD" tvg-logo="" group-title="GERMANY", Sony HD
-http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1298.ts
 #EXTINF:-1 tvg-id="" tvg-name="Spiegel Geschichte HD" tvg-logo="" group-title="GERMANY", Spiegel Geschichte HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/1779.ts
 #EXTINF:-1 tvg-id="" tvg-name="Spiegel TV Wissen" tvg-logo="" group-title="GERMANY", Spiegel TV Wissen
@@ -477,5 +463,3 @@ http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4399.ts
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4479.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport DAZN 2 HD" tvg-logo="" group-title="GERMANY", Sky Sport DAZN 2 HD
 http://globiptv.com:8000/live/fWO3o0Bzc9/FjuzUjXBQp/4480.ts
-
- 
