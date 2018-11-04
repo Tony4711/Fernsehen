@@ -1,0 +1,803 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="13th Street">
+    <display-name lang="de">13th Street</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="3+">
+    <display-name lang="de">3+</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="3sat">
+    <display-name lang="de">3sat</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="AuE">
+    <display-name lang="de">AuE</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Adult Channel">
+    <display-name lang="de">Adult Channel</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Al Jazeera">
+    <display-name lang="de">Al Jazeera</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="de">Animal Planet</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ANIXE">
+    <display-name lang="de">ANIXE</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ARD-alpha">
+    <display-name lang="de">ARD-alpha</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ARTE">
+    <display-name lang="de">ARTE</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ATV">
+    <display-name lang="de">ATV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ATV II">
+    <display-name lang="de">ATV II</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Auto Motor Sport Channel">
+    <display-name lang="de">Auto Motor Sport Channel</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="de">AXN</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="BBC Entertainm.">
+    <display-name lang="de">BBC Entertainm.</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="de">BBC World News</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Beate-Uhse.TV">
+    <display-name lang="de">Beate-Uhse.TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Belgien 1">
+    <display-name lang="de">Belgien 1</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Bibel TV">
+    <display-name lang="de">Bibel TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="blizz">
+    <display-name lang="de">blizz</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Bloomberg Europe TV">
+    <display-name lang="de">Bloomberg Europe TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Blue Movie">
+    <display-name lang="de">Blue Movie</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Blue Movie 2">
+    <display-name lang="de">Blue Movie 2</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Blue Movie 3">
+    <display-name lang="de">Blue Movie 3</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="BonGusto">
+    <display-name lang="de">BonGusto</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="de">Boomerang</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="BR">
+    <display-name lang="de">BR</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="de">Cartoon Network</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Channel21">
+    <display-name lang="de">Channel21</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Classica">
+    <display-name lang="de">Classica</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="de">CNBC</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="CNN International">
+    <display-name lang="de">CNN International</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="COMEDY CENTRAL">
+    <display-name lang="de">COMEDY CENTRAL</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Das Erste">
+    <display-name lang="de">Das Erste</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="DELUXE MUSIC">
+    <display-name lang="de">DELUXE MUSIC</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Der Aktionär TV">
+    <display-name lang="de">Der Aktionär TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Deutsches Musik Fernsehen">
+    <display-name lang="de">Deutsches Musik Fernsehen</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Discovery HD">
+    <display-name lang="de">Discovery HD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="de">Disney Channel</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Disney Cinemagic">
+    <display-name lang="de">Disney Cinemagic</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="de">Disney Junior</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="de">Disney XD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="de">DMAX</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="DR1">
+    <display-name lang="de">DR1</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="DW (Europe)">
+    <display-name lang="de">DW (Europe)</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="E! Entertainm.">
+    <display-name lang="de">E! Entertainm.</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="euronews">
+    <display-name lang="de">euronews</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="de">Eurosport 1</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="de">Eurosport 2</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="EXTREME SPORTS">
+    <display-name lang="de">EXTREME SPORTS</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Family TV">
+    <display-name lang="de">Family TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="de">Fashion TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Fine Living Network">
+    <display-name lang="de">Fine Living Network</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="FIX u FOXI">
+    <display-name lang="de">FIX u FOXI</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Food Network">
+    <display-name lang="de">Food Network</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="de">FOX</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="France 24 (engl.)">
+    <display-name lang="de">France 24 (engl.)</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="France 24 (franz.)">
+    <display-name lang="de">France 24 (franz.)</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="FunDorado TV">
+    <display-name lang="de">FunDorado TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="GEO Television">
+    <display-name lang="de">GEO Television</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="GoldStar TV">
+    <display-name lang="de">GoldStar TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Gute Laune TV">
+    <display-name lang="de">Gute Laune TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Hamburg 1">
+    <display-name lang="de">Hamburg 1</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Heimatkanal">
+    <display-name lang="de">Heimatkanal</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="HISTORY HD">
+    <display-name lang="de">HISTORY HD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="HR">
+    <display-name lang="de">HR</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="HSE24">
+    <display-name lang="de">HSE24</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Jukebox">
+    <display-name lang="de">Jukebox</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Junior">
+    <display-name lang="de">Junior</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="K-TV">
+    <display-name lang="de">K-TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="kabel eins">
+    <display-name lang="de">kabel eins</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="kabel eins CLASSICS">
+    <display-name lang="de">kabel eins CLASSICS</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="kabel eins Doku">
+    <display-name lang="de">kabel eins Doku</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="KiKA">
+    <display-name lang="de">KiKA</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="KinoweltTV">
+    <display-name lang="de">KinoweltTV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Leipzig Fernsehen">
+    <display-name lang="de">Leipzig Fernsehen</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="LUST PUR">
+    <display-name lang="de">LUST PUR</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Marco Polo TV">
+    <display-name lang="de">Marco Polo TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="MDR">
+    <display-name lang="de">MDR</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Mezzo">
+    <display-name lang="de">Mezzo</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="MGM HD">
+    <display-name lang="de">MGM HD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Motors TV">
+    <display-name lang="de">Motors TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Motorvision TV">
+    <display-name lang="de">Motorvision TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="de">MTV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="MTV Base">
+    <display-name lang="de">MTV Base</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="MTV Dance">
+    <display-name lang="de">MTV Dance</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="de">MTV Hits</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="de">MTV Live HD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="münchen.tv">
+    <display-name lang="de">münchen.tv</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="münchen2">
+    <display-name lang="de">münchen2</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="n-tv">
+    <display-name lang="de">n-tv</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="N24">
+    <display-name lang="de">N24</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="N24 Doku">
+    <display-name lang="de">N24 Doku</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Nat Geo HD">
+    <display-name lang="de">Nat Geo HD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Nat Geo People HD">
+    <display-name lang="de">Nat Geo People HD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="NAT GEO WILD">
+    <display-name lang="de">NAT GEO WILD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Nautical Channel">
+    <display-name lang="de">Nautical Channel</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="NDR">
+    <display-name lang="de">NDR</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="de">Nick Jr.</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="de">Nickelodeon</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Nicktoons">
+    <display-name lang="de">Nicktoons</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="NL 1">
+    <display-name lang="de">NL 1</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="NL 2">
+    <display-name lang="de">NL 2</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="NL 3">
+    <display-name lang="de">NL 3</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ONE">
+    <display-name lang="de">ONE</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ORF 2">
+    <display-name lang="de">ORF 2</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ORF eins">
+    <display-name lang="de">ORF eins</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ORF III">
+    <display-name lang="de">ORF III</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ORF SPORT +">
+    <display-name lang="de">ORF SPORT +</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="PHOENIX">
+    <display-name lang="de">PHOENIX</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="PLANET">
+    <display-name lang="de">PLANET</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name lang="de">Playboy TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ProSieben">
+    <display-name lang="de">ProSieben</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ProSieben Fun">
+    <display-name lang="de">ProSieben Fun</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ProSieben MAXX">
+    <display-name lang="de">ProSieben MAXX</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="PULS 4">
+    <display-name lang="de">PULS 4</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="PULS acht">
+    <display-name lang="de">PULS acht</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="QVC">
+    <display-name lang="de">QVC</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="QVC Beauty u Style">
+    <display-name lang="de">QVC Beauty u Style</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="QVC Plus">
+    <display-name lang="de">QVC Plus</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="RBB">
+    <display-name lang="de">RBB</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="RCK TV">
+    <display-name lang="de">RCK TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Regio TV">
+    <display-name lang="de">Regio TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Regio TV Bodensee">
+    <display-name lang="de">Regio TV Bodensee</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Rhein-Neckar Fernsehen">
+    <display-name lang="de">Rhein-Neckar Fernsehen</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="rheinmain tv">
+    <display-name lang="de">rheinmain tv</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="RiC/eoTV">
+    <display-name lang="de">RiC/eoTV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Romance TV">
+    <display-name lang="de">Romance TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="RTL">
+    <display-name lang="de">RTL</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="RTL Crime">
+    <display-name lang="de">RTL Crime</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="RTL II">
+    <display-name lang="de">RTL II</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="RTL II YOU">
+    <display-name lang="de">RTL II YOU</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="RTL Living">
+    <display-name lang="de">RTL Living</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="RTL NITRO">
+    <display-name lang="de">RTL NITRO</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="RTL Passion">
+    <display-name lang="de">RTL Passion</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="RTLplus">
+    <display-name lang="de">RTLplus</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sachsen Fernsehen">
+    <display-name lang="de">Sachsen Fernsehen</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SAT.1">
+    <display-name lang="de">SAT.1</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SAT.1 emotions">
+    <display-name lang="de">SAT.1 emotions</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SAT.1 Gold">
+    <display-name lang="de">SAT.1 Gold</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ServusTV Deutschland">
+    <display-name lang="de">ServusTV Deutschland</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Silverline">
+    <display-name lang="de">Silverline</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="sixx">
+    <display-name lang="de">sixx</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky 1">
+    <display-name lang="de">Sky 1</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky 3D">
+    <display-name lang="de">Sky 3D</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Action">
+    <display-name lang="de">Sky Action</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SKY Arts HD">
+    <display-name lang="de">SKY Arts HD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Atlantic HD">
+    <display-name lang="de">Sky Atlantic HD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Bundesliga">
+    <display-name lang="de">Sky Bundesliga</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Cinema">
+    <display-name lang="de">Sky Cinema</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Cinema Harry Potter HD">
+    <display-name lang="de">Sky Cinema Harry Potter HD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Cinema+1">
+    <display-name lang="de">Sky Cinema+1</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Cinema+24">
+    <display-name lang="de">Sky Cinema+24</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Comedy">
+    <display-name lang="de">Sky Comedy</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Emotion">
+    <display-name lang="de">Sky Emotion</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Family">
+    <display-name lang="de">Sky Family</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Krimi">
+    <display-name lang="de">Sky Krimi</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Nostalgie">
+    <display-name lang="de">Sky Nostalgie</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky select">
+    <display-name lang="de">Sky select</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Sport Austria">
+    <display-name lang="de">Sky Sport Austria</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Sport HD 1">
+    <display-name lang="de">Sky Sport HD 1</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Sport HD 2">
+    <display-name lang="de">Sky Sport HD 2</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sky Sport News HD">
+    <display-name lang="de">Sky Sport News HD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="sonnenklar TV">
+    <display-name lang="de">sonnenklar TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Sony E. Television">
+    <display-name lang="de">Sony E. Television</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SPIEGEL Geschichte">
+    <display-name lang="de">SPIEGEL Geschichte</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SPIEGEL TV WISSEN">
+    <display-name lang="de">SPIEGEL TV WISSEN</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SPORT1">
+    <display-name lang="de">SPORT1</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SPORT1 US">
+    <display-name lang="de">SPORT1 US</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SPORT1+">
+    <display-name lang="de">SPORT1+</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="sportdigital">
+    <display-name lang="de">sportdigital</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SRF 1">
+    <display-name lang="de">SRF 1</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SRF zwei">
+    <display-name lang="de">SRF zwei</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="STAR TV">
+    <display-name lang="de">STAR TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SUPER RTL">
+    <display-name lang="de">SUPER RTL</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="SWR/SR">
+    <display-name lang="de">SWR/SR</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="de">Syfy</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="tagesschau 24">
+    <display-name lang="de">tagesschau 24</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="TELE 5">
+    <display-name lang="de">TELE 5</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="de">TLC</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="TNT Comedy">
+    <display-name lang="de">TNT Comedy</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="TNT Film">
+    <display-name lang="de">TNT Film</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="TNT Serie">
+    <display-name lang="de">TNT Serie</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="TOGGO plus">
+    <display-name lang="de">TOGGO plus</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Trace TV">
+    <display-name lang="de">Trace TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="de">Travel Channel</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="tv.berlin">
+    <display-name lang="de">tv.berlin</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="TV2">
+    <display-name lang="de">TV2</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="de">TV5 Monde</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Universal Channel HD">
+    <display-name lang="de">Universal Channel HD</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="VH1 Classic">
+    <display-name lang="de">VH1 Classic</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="VIVA">
+    <display-name lang="de">VIVA</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="VOX">
+    <display-name lang="de">VOX</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="WDR">
+    <display-name lang="de">WDR</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Welt der Wunder TV">
+    <display-name lang="de">Welt der Wunder TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Wetter.com TV">
+    <display-name lang="de">Wetter.com TV</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ZDF">
+    <display-name lang="de">ZDF</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ZDFinfo">
+    <display-name lang="de">ZDFinfo</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="ZDFneo">
+    <display-name lang="de">ZDFneo</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+  <channel id="Zee.One">
+    <display-name lang="de">Zee.One</display-name>
+    <url>http://www.m.tvtoday.de</url>
+  </channel>
+</tv>
